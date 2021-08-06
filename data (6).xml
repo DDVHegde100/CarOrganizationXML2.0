@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ford>
+	<car>
+		<name>Ford F150</name>
+		<TopSpeed>130 mph</TopSpeed>
+		<price>39590</price>
+	</car>
+	<car>
+		<name>GT530R Mustang</name>
+		<TopSpeed>169 mph</TopSpeed>
+		<price>74530</price>
+	</car>
+	<car>
+		<name>Ford Focus ST</name>
+		<TopSpeed>62 mph</TopSpeed>
+		<price>20998</price>
+	</car>
+	<car>
+		<name>Ford GT</name>
+		<TopSpeed>200 mph</TopSpeed>
+		<price>149995</price>
+	</car>
+	<car>
+		<name>Ford Bronco</name>
+		<TopSpeed>130.49 mph</TopSpeed>
+		<price>38160</price>
+	</car>
+	<car>
+		<name>Ford Siesta</name>
+		<TopSpeed>130 mph</TopSpeed>
+		<price>14260</price>
+	</car>
+	<car>
+		<name>Ford Ranger</name>
+		<TopSpeed>108 mph</TopSpeed>
+		<price>28415</price>
+	</car>
+</ford>
+<Tesla>
+	<car>
+		<name>Tesla Model 3 2021</name>
+		<TopSpeed>130 mph</TopSpeed>
+		<price>39990</price>
+	</car>
+	<car>
+		<name>Tesla Model S 2020</name>
+		<TopSpeed>200 mph</TopSpeed>
+		<price>69420(noice)</price>
+	</car>
+</Tesla>
